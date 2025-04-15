@@ -21,3 +21,9 @@ x
 ```
 
 
+## My To-do Checklist
+- [ ] Turn on GitHub Pages
+- [x] Change password and login
+- [ ] Learn markdown
+- [ ] ????
+- [ ] Profit
