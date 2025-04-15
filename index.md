@@ -11,3 +11,5 @@
 ###### Level six
 
 Testing out different header levels in markdown.
+
+![Image of some sort of GitHub cat character](https://octodex.github.com/sentrytocat/)
